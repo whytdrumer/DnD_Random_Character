@@ -339,4 +339,9 @@ let myItems = createCharItems();
 
 console.log(myRace);
 console.log(myClass);
-console.log(myItems);
+console.log(myItems.head);
+console.log(myItems.body);
+console.log(myItems.primary);
+console.log(myItems.secondary);
+console.log(myItems.accessory);
+console.log(myItems.feet);
