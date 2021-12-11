@@ -14,16 +14,16 @@ const mainCharClass = {
   gnome: ['Artificer', 'Bard', 'Cleric', 'Paladin', 'Rogue', 'Wizard'],
   halfling: ['Barbarian', 'Bard', 'Cleric', 'Druid', 'Fighter', 'Monk', 'Ranger', 'Rogue'],
   dragonborn: ['Artificer', 'Barbarian', 'Fighter', 'Paladin', 'Wizard'],
-  halforc: ['Barbarian', 'Figher', 'Cleric', 'Paladin'],
+  halforc: ['Barbarian', 'Fighter', 'Cleric', 'Paladin'],
 }
 
 const artificer = {
-  itemHead: ['None', 'Cap', 'Mask', 'Hood'],
-  itemBody: ['Armor', 'Vest', 'Shirt', 'Robe',],
-  mainHand: ['Dagger', 'Staff', 'Wand', 'Mace', 'Sword'],
-  secondHand: ['Shield', 'Bracer', 'Orb', 'Spell Book', 'Lute'],
-  specialItem: ['Amulet', 'Ring', 'Cloak', 'Ioun Stone'],
-  itemFeet: ['Boots', 'Greaves', 'Slippers', 'Shoes'],
+  itemHead: ['Arcane Helment of Power', 'Tinker\'s Specticles', 'Tattered Tinker\'s Cap', 'Infused Arcane Mask', 'Artificer\'s Hood of Mystery', 'Arcane Visor of Light', 'Legendary Helment of Creation (+1)'],
+  itemBody: ['Light Arcane Armor', 'Tinker\'s Armor', 'Artisan\'s Armor of Power', 'Rusty Tinker\'s Armor', 'Artificer\'s Infused Armor', 'Legendary Armor of Creation (+1)'],
+  mainHand: ['Gauntlet of Power', 'Arcane Staff', 'Tinker\'s Hammer', 'Mythical Mace', 'Rusty Hammer', 'Artificer\'s Laser Gun', 'Artificer\'s Infused Hammer', 'Legendary Hammer of Creation (+1)'],
+  secondHand: ['Tinker\'s Tools', 'Arcane Tool Kit', 'Infused Buckler', 'Rusty Shield', 'Artificer\'s Took Kit', 'Legendary Shield of Creation (+1)'],
+  specialItem: [' ', ' ', ' ', 'Mythical Amulet', 'Artisan\'s Ring of Power', 'Artificer\'s Cloak', 'Ioun Stone of Mystery', 'Tinker\'s Vials', 'Ledgendary Seal of Creation (+1)'],
+  itemFeet: ['Artisan Boots', 'Arcane Greaves of Power', 'Tattered Boots', 'Artificer\'s Infused Greaves', 'Rusty Greaves', 'Legendary Greaves of Creation (+1)'],
 };
 
 const barbarian = {
