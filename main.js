@@ -22,17 +22,17 @@ const artificer = {
   itemBody: ['Light Arcane Armor', 'Tinker\'s Armor', 'Artisan\'s Armor of Power', 'Rusty Tinker\'s Armor', 'Artificer\'s Infused Armor', 'Legendary Armor of Creation (+1)'],
   mainHand: ['Gauntlet of Power', 'Arcane Staff', 'Tinker\'s Hammer', 'Mythical Mace', 'Rusty Hammer', 'Artificer\'s Laser Gun', 'Artificer\'s Infused Hammer', 'Legendary Hammer of Creation (+1)'],
   secondHand: ['Tinker\'s Tools', 'Arcane Tool Kit', 'Infused Buckler', 'Rusty Shield', 'Artificer\'s Took Kit', 'Legendary Shield of Creation (+1)'],
-  specialItem: [' ', ' ', ' ', 'Mythical Amulet', 'Artisan\'s Ring of Power', 'Artificer\'s Cloak', 'Ioun Stone of Mystery', 'Tinker\'s Vials', 'Ledgendary Seal of Creation (+1)'],
+  specialItem: ['None', 'None', 'None', 'Mythical Amulet', 'Artisan\'s Ring of Power', 'Artificer\'s Cloak', 'Ioun Stone of Mystery', 'Tinker\'s Vials', 'Ledgendary Seal of Creation (+1)'],
   itemFeet: ['Artisan Boots', 'Arcane Greaves of Power', 'Tattered Boots', 'Artificer\'s Infused Greaves', 'Rusty Greaves', 'Legendary Greaves of Creation (+1)'],
 };
 
 const barbarian = {
-  itemHead: ['None', 'Cap', 'Mask', 'Hood'],
-  itemBody: ['Armor', 'Vest', 'Shirt', 'Robe',],
-  mainHand: ['Dagger', 'Staff', 'Wand', 'Mace', 'Sword'],
-  secondHand: ['Shield', 'Bracer', 'Orb', 'Spell Book', 'Lute'],
-  specialItem: ['Amulet', 'Ring', 'Cloak', 'Ioun Stone'],
-  itemFeet: ['Boots', 'Greaves', 'Slippers', 'Shoes'],
+  itemHead: ['Spiked Helmet of Rage', 'Primal Headband', 'Bloodstained Mask of Intimidation', 'Warrior\'s Face Paint', 'Warrior\'s Hood of Intimidation', 'Champion\'s Helmet of Might (+1)'],
+  itemBody: ['Padded Armor', 'Warrior\'s Armor', 'Bloodstained Vest of Intimidation', 'Spiked Armor of Rage', 'Primal Pelt', 'Champion\'s Armor of Might (+1)'],
+  mainHand: ['Bloodstained Broadsword', 'Battle Axe of Rage', 'Two-handed Battle Axe', 'Rusty Sword', 'Two-handed Broadsword', 'Champion\'s Great Axe of Might (+1)'],
+  secondHand: ['Explorer\'s Pack', 'Javelins', 'Hatchet', 'Tomahawk', 'Battle Axe', 'One-handed Sword'],
+  specialItem: ['None', 'None', 'None', 'Neckless of Enemy\'s Teeth', 'Ring of Power', 'Warrior\'s Cloak', 'Scalps of Intimidation', 'Champion\'s Seal of Might (+1)'],
+  itemFeet: ['Warrior\'s Boots', 'Spiked Boots of Rage', 'Padded Boots', 'Primal Boots of Recklessness', 'Bloodstained Boots of Rage', 'Boots of Intimidation', 'Champion\'s Boots of Might (+1)'],
 };
 
 const bard = {
